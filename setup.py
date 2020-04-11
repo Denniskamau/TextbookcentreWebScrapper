@@ -7,8 +7,8 @@ with open('HISTORY.md') as history_file:
     HISTORY = history_file.read()
 
 setup_args = dict(
-    name='dento scrapper',
-    version='0.1.1',
+    name='dentoscrapper',
+    version='0.1.2',
     description='Useful tools for scrapping textbook centre images',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n' + HISTORY,
@@ -18,7 +18,7 @@ setup_args = dict(
     author_email='denniskamau3@gmail.com',
     keywords=['WebSrapper', 'Data Mining', 'Textbook centre','Web scrapping'],
     url='https://github.com/Denniskamau/TextbookcentreWebScrapper',
-    download_url='https://pypi.org/project/dentoscrapper/'
+    download_url='https://pypi.org/project/dento-scrapper/'
 )
 
 install_requires = [

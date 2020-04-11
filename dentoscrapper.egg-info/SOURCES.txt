@@ -1,0 +1,11 @@
+README.md
+setup.py
+dentoscrapper.egg-info/PKG-INFO
+dentoscrapper.egg-info/SOURCES.txt
+dentoscrapper.egg-info/dependency_links.txt
+dentoscrapper.egg-info/requires.txt
+dentoscrapper.egg-info/top_level.txt
+tbcscrapper/__init__.py
+tbcscrapper/__main__.py
+tbcscrapper/bookscrapper.py
+tbcscrapper/textbookcentreGUI.py

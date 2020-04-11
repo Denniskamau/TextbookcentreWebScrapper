@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: dento-scrapper
+Name: dentoscrapper
 Version: 0.1.2
 Summary: Useful tools for scrapping textbook centre images
 Home-page: https://github.com/Denniskamau/TextbookcentreWebScrapper
 Author: Dennis Kamau
 Author-email: denniskamau3@gmail.com
 License: MIT
-Download-URL: https://pypi.org/project/dentoscrapper/
+Download-URL: https://pypi.org/project/dento-scrapper/
 Description: Useful tools for websrapping textbook centre images
         
         # Description
