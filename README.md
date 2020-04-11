@@ -14,6 +14,11 @@ It consists of two main modules:
 ```bash
 pip install dentoscrapper
 ```
+## Usage
+
+```bash
+python3 -m tbcscrapper
+```
 
 ## Development installation
 
