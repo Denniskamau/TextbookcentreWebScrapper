@@ -8,7 +8,7 @@ with open('HISTORY.md') as history_file:
 
 setup_args = dict(
     name='dentoscrapper',
-    version='0.1.2',
+    version='0.1.3',
     description='Useful tools for scrapping textbook centre images',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n' + HISTORY,

@@ -1,4 +1,10 @@
 # Import the required liblaries
+import os
+import random
+import urllib.request
+import urllib.request
+import PySimpleGUI as sg
+from bs4 import BeautifulSoup
 
 
 
